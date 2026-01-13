@@ -1,7 +1,5 @@
 package com.nextgen.item.controller;
 
-import java.util.Objects;
-
 import com.nextgen.item.dto.ItemResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;
